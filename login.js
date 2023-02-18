@@ -1,4 +1,4 @@
-var api = "http://localhost:3031/NUMPRIMOS/datos.php?FUNC=";
+var api = "datos.php?FUNC=";
 
 
     document.getElementById('loginBtn').addEventListener('click',

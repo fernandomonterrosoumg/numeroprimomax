@@ -1,4 +1,4 @@
-var api = "http://localhost:3031/NUMPRIMOS/datos.php?FUNC=";
+var api = "datos.php?FUNC=";
 var n = 2;
 var stopMax = 0;//300;
 var primeArray = [2];
